@@ -1,0 +1,2 @@
+# MJL
+Minimalistic Javascript Library
